@@ -1,0 +1,20 @@
+*{
+    color: black;
+    background-color: rgba(176, 254, 228, 0.656);
+}
+
+header{
+    background-color: rgb(46, 16, 16);
+}
+
+.navbar{
+    justify-content: flex-start;
+}
+
+h1{
+    padding: 30px;
+}
+
+a{
+    color: black;
+}
